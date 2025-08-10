@@ -357,6 +357,13 @@ select {
     max-width: 80%;
 }
 
+.centered-grey-rectangle {
+    width: 80%;
+    height: 200px;
+    margin: 20px auto;
+    background-color: hsl(var(--quite-gray));
+}
+
 /* =============
     ::Selectors
    ============= */
